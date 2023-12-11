@@ -1,3 +1,3 @@
-#demo prosjekt 
+#Demo-prosjekt 
 
-En fin beskrivelse av mitt proskelt 
+En fin beskrivelse av mitt prosjekt
